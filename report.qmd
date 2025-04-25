@@ -2,15 +2,11 @@
 title: "Title of your report"
 subtitle: "Project report of Group #"
 author:
-  - name: "Student 1"
-    affiliation: "MSc Geomatics"
-  - name: "Student 2"
-    affiliation: "MSc Landscape Architecture"
   - name: "Claudiu Forgaci"
     affiliation: "MSc Urbanism"
   - name: "Daniele Cannatella"
     affiliation: "MSc Urbanism"
-  - name: "Student 5"
+  - name: "Yehan Wu"
     affiliation: "MSc Landscape Architecture"
 format: html
 ---
