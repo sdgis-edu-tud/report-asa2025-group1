@@ -12,7 +12,7 @@ format: html
 ---
 
 ::: callout
-## This is a computational report
+## This is a notebook
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
@@ -58,4 +58,3 @@ and start the report from the Introduction section below.
 ## Discussion
 
 ## Conclusion
-
