@@ -2,21 +2,17 @@
 title: "Title of your report"
 subtitle: "Project report of Group #"
 author:
-  - name: "Student 1"
-    affiliation: "MSc Geomatics"
-  - name: "Student 2"
-    affiliation: "MSc Landscape Architecture"
-  - name: "Student 3"
+  - name: "Claudiu Forgaci"
     affiliation: "MSc Urbanism"
-  - name: "Student 4"
+  - name: "Daniele Cannatella"
     affiliation: "MSc Urbanism"
-  - name: "Student 5"
+  - name: "Yehan Wu"
     affiliation: "MSc Landscape Architecture"
 format: html
 ---
 
 ::: callout
-## This is a computational notebook
+## This is a notebook
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
@@ -62,4 +58,3 @@ and start the report from the Introduction section below.
 ## Discussion
 
 ## Conclusion
-
