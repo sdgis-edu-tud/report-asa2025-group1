@@ -24,4 +24,3 @@ format: html
 ## Discussion
 
 ## Conclusion
-
